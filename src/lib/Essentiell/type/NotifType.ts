@@ -1,0 +1,1 @@
+export  type NotifType = {Content:string ,id:number,date:string}

@@ -1,0 +1,1 @@
+export type Action ={action:number,date:Date}
